@@ -32,6 +32,9 @@ if you want to run at development mode, clone the repositorie and run
 
 ```
 npm install
+cd client
+npm install
+cd ..
 npm run dev
 ```
 
@@ -44,6 +47,9 @@ if you want to run at production mode, clone the repositorie and run
 
 ```
 npm install
+cd client
+npm install
+cd ..
 npm run production
 ```
 and check **http://localhost:5000**
