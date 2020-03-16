@@ -3,12 +3,21 @@
 
 ## Live Demo
 
-### Check the website I build: http://dcard-test.appspot.com/drawCard
+### Check the website I build: 
+
+* http://dcard-test.appspot.com/drawCard
+
+* https://dcard-backend-test.herokuapp.com/drawCard (備用)
+
 ![](https://i.imgur.com/NARY99v.gif)
 
 ### Test the api can run this
 ``` cmd
 curl -I http://dcard-test.appspot.com/api/drawCard
+```
+**(備用)**
+``` cmd
+curl -I https://dcard-backend-test.herokuapp.com/drawCard
 ```
 ![](https://i.imgur.com/O86hurU.png)
 
